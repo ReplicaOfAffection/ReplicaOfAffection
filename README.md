@@ -2,11 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=ReplicaOfAffection&color=185331&style=plastic&label=BRAINDRAIN'S+CLONES)
 
+<br>
+
 <img width="10000" height="1000" alt="green night" src="https://github.com/user-attachments/assets/0b591e43-efc8-4956-ab7a-5aaeaa407e65" />
 
 <br>
 
-> *" I'm sorry. I'm sorry. I'm sorry. I can be **[ FILIA ]**. I can be **[ FILIA ]**. I love you. Sorry. "*
+<img
+src="https://readme-typing-svg.demolab.com?font=&weight=900&size=17&duration=4500&pause=1000&color=113B23&background=0728091C&width=460&height=45&lines=%22+I'm+sorry.+I'm+sorry.+I'm+sorry.+%22;%22+I+can+be+%5B+FILIA+%5D.+I+can+be+%5B+FILIA+%5D.+%22;%22+I+love+you.+Sorry.+%22"
+alt="Typing SVG"
+/>
 
 <br>
 
@@ -21,4 +26,3 @@
 <div align="center">
   
   [新book](https://thebetterfilia.atabook.org)
-  
