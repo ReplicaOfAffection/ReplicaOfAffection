@@ -26,3 +26,5 @@ alt="Typing SVG"
 <div align="center">
   
   [新book](https://thebetterfilia.atabook.org)
+
+- If I'm added in other nomination accounts, do let me know in my atabook!
